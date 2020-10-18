@@ -1,3 +1,7 @@
+Note: The code in this repo includes the contract pallet manually added. Below the default Readme info from the Substrate node template
+
+-------------------
+
 # Substrate Node Template
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
